@@ -53,6 +53,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DirectoryIndexItem.cs" />
+    <Compile Include="FileIndexItem.cs" />
+    <Compile Include="IndexCondenser.cs" />
+    <Compile Include="IndexCreator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
