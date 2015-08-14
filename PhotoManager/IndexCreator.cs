@@ -7,6 +7,7 @@ using System.IO;
 using Newtonsoft.Json;
 using System.Drawing;
 using System.Drawing.Imaging;
+using PhotoManager.Models;
 
 namespace PhotoManager
 {
